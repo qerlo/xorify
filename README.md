@@ -6,7 +6,7 @@
 
 - Encrypts or decrypts any type of file using a user-provided key.
 - Generate a key of a specified length.
-- Cross-platform: Works on **Linux** and **Windows** (only via MSYS2, Windows terminal needs to be fixed).
+- Cross-platform: Works on **Linux** and **Windows** (only via MSYS2, native  Windows terminal needs to be fixed).
 - Simple and lightweight — written in C.
 
 ## Build
